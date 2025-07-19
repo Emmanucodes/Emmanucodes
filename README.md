@@ -8,8 +8,8 @@ This GitHub profile is where I document my hands-on projects, phishing analysis,
 
 ## 🔐 Cybersecurity Projects
 
-🧠 [PDF Phishing Email Analysis (In Progress)](https://github.com/Emmanucodes/phishing-analysis)  
-A beginner-friendly breakdown of a phishing email that included a malicious PDF. Includes VirusTotal scans, static analysis, and IOC documentation.
+🧠 [Phishing Email Analysis](https://github.com/Emmanucodes/phishing-analysis)  
+A beginner-friendly breakdown of a phishing email. Includes authomated scans(url scan, virustotal), manual analysis, and IOC documentation.
 
 🚧 More projects coming soon!
 
