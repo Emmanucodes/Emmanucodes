@@ -9,7 +9,10 @@ This GitHub profile is where I document my hands-on projects, phishing analysis,
 ## 🔐 Cybersecurity Projects
 
 🧠 [Phishing Email Analysis](https://github.com/Emmanucodes/phishing-analysis)  
-A beginner-friendly breakdown of a phishing email. Includes authomated scans(url scan, virustotal), manual analysis, and IOC documentation.
+A beginner-friendly breakdown of a phishing email. Includes automated scans (URLScan, VirusTotal), manual analysis, and IOC documentation.
+
+🌐 [Network Traffic Analysis and Threat Detection](https://github.com/Emmanucodes/network-traffic-analysis)  
+A 3-day PCAP analysis project using Wireshark to detect suspicious HTTP request/response patterns. Includes IOC enrichment with VirusTotal and MITRE ATT&CK mapping.
 
 🚧 More projects coming soon!
 
@@ -18,7 +21,7 @@ A beginner-friendly breakdown of a phishing email. Includes authomated scans(url
 ## 📜 Certificates & Courses
 - Google Cybersecurity Certificate (in progress)
 - TryHackMe Beginner Path
-- TCM soc101
+- TCM SOC101
 
 ---
 
